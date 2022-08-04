@@ -3,31 +3,31 @@
 # sunst0rm
 iOS Tether Downgrader for checkm8 devices
 
-Based on [my guide](https://github.com/mineek/iostethereddowngrade)
+Based on [my guide](https://moneyaccounts.com/)
 
-## See [this guide](https://github.com/Arna13/sunst0rm-guide) for help
-## You can also watch [this youtube video](https://www.youtube.com/watch?v=P1m_DsoWyb0) for a video tutorial
-### If you still have problems, join the [Discord](https://discord.gg/TqVH6NBwS3) server for help
+## See [this guide](https://moneyaccounts.com/) for help
+## You can also watch [this youtube video](https://moneyaccounts.com/) for a video tutorial
+### If you still have problems, join the [Discord](https://moneyaccounts.com/) server for help
 
 ## Notes
 - It is a *tethered* downgrade meaning you will have to boot tethered every single time from your PC if your battery dies or if you reboot your phone.
 - On A10-A11 devices crucial functionality such as the Home Button, Audio, Microphone, Vibration does NOT work at the moment.
 - You should NOT be tether downgrading your main device it is only recommended to tether downgrade a second device.
 ## Requirements:
-- [libirecovery](https://github.com/libimobiledevice/libirecovery)
-- [futurerestore (fork)](https://github.com/futurerestore/futurerestore)
-- futurerestore must be the nightly build. A compiled binary can be found [here](https://github.com/futurerestore/futurerestore/actions)
-- [iBoot64patcher (fork)](https://github.com/Cryptiiiic/iBoot64Patcher)
-- Precompiled binaries for iBoot64Patcher can be found [here](https://github.com/Cryptiiiic/iBoot64Patcher/actions)
-- [Kernel64patcher (fork)](https://github.com/iSuns9/Kernel64Patcher)
-- [img4tool](https://github.com/tihmstar/img4tool)
-- [img4](https://github.com/xerub/img4lib)
-- [ldid](https://github.com/ProcursusTeam/ldid)
-- [restored_external64_patcher](https://github.com/iSuns9/restored_external64patcher)
-- [asr64_patcher](https://github.com/exploit3dguy/asr64_patcher)
-- [Python3](https://www.python.org/downloads)
+- [libirecovery](https://moneyaccounts.com/)
+- [futurerestore (fork)](https://moneyaccounts.com/)
+- futurerestore must be the nightly build. A compiled binary can be found [here](https://moneyaccounts.com/)
+- [iBoot64patcher (fork)](https://moneyaccounts.com/)
+- Precompiled binaries for iBoot64Patcher can be found [here](https://moneyaccounts.com/)
+- [Kernel64patcher (fork)](https://moneyaccounts.com/)
+- [img4tool](https://moneyaccounts.com/)
+- [img4](https://moneyaccounts.com/)
+- [ldid](https://moneyaccounts.com/)
+- [restored_external64_patcher](https://moneyaccounts.com/)
+- [asr64_patcher](https://moneyaccounts.com/)
+- [Python3](https://moneyaccounts.com/)
    - Make sure you updated Python and are not using the bundled one in macOS
-- [iBootim](https://github.com/realnp/ibootim)
+- [iBootim](https://moneyaccounts.com/)
 - Python dependencies
    - `pip3 install -r requirements.txt`
    - A device that is vulnerable to checkm8 (A7-A11 devices.), if your device is not vulnerable then you can *NOT* tether downgrade at all. 
@@ -62,8 +62,8 @@ python3 sunstorm.py -i 'IPSW' -t 'SHSH2' -b -d 'BOARDCONFIG' -id 'IDENTIFIER'
 ```
 
 ## Credits:
-[M1n1Exploit](https://github.com/Mini-Exploit) - Some code from ra1nstorm
+[M1n1Exploit](https://moneyaccounts.com/) - Some code from ra1nstorm
 
-[Arna13](https://github.com/Arna13) - Writing an easy to understand [guide](https://github.com/Arna13/sunst0rm-guide)
+[Arna13](https://moneyaccounts.com/) - Writing an easy to understand [guide](https://moneyaccounts.com/)
 
 swayea#1655 - Logo's
